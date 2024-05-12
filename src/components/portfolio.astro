@@ -5,7 +5,7 @@ import { Image } from 'astro:assets'
 
 <section id="portfolio" class="">
   <div class="container">
-    <h1 class="mb-md-5">PROJECTS</h1>
+    <h1 class="mb-md-5">PROYECTOS</h1>
     <div class="row row-cols-1 row-cols-lg-2 g-3">
       {
         projects.map(project => (
@@ -23,7 +23,7 @@ import { Image } from 'astro:assets'
                   <p class="text-center">{project.description}</p>
                   <div class="links_project">
                     <a
-                      href={project.imageSrc}
+                      href={project.liveDemoURL}
                       target="_blank"
                       rel="noopener noreferrer"
                       title="source code"
@@ -32,7 +32,7 @@ import { Image } from 'astro:assets'
                       <i class="bi bi-github" />
                     </a>
                     <a
-                      href={project.liveDemoURL}
+                      href={project.imageSrc}
                       target="_blank"
                       rel="noopener noreferrer"
                       title="live demo"
@@ -67,7 +67,7 @@ import { Image } from 'astro:assets'
         target="_blank"
         class="btn btn-outline-accent btn-lg rounded-pill"
       >
-        See more <i class="bi bi-github fs-4"></i>
+        Más proyectos <i class="bi bi-github fs-4"></i>
       </a>
     </p>
   </div>

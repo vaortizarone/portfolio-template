@@ -1,80 +1,80 @@
 {
-  "fullName": "Olivia Davis",
+  "fullName": "Alejandro Ortiz",
   "metadata": {
-    "title": "Olivia Davis - FullStack Developer",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum",
+    "title": "Alejandro Ortiz - Estadístico",
+    "description": "Contrátame",
     "keywords": [
-      "Olivia Davis",
-      "New York",
-      "FullStack Developer",
-      "TypeScript",
-      "JavaScript",
-      "React",
-      "Angular",
-      "Node.js"
+      "Alejandro Ortiz",
+      "Lima",
+      "Estadístico",
+      "R",
+      "Python",
+      "Tableau",
+      "PowerBI",
+      "Postgres"
     ]
   },
-  "typedText": ["Full Stack Guru", "Design Maestro", "Bug Resolver"],
-  "email": "oliviadavis@example.com",
-  "location": "New York, USA",
+  "typedText": ["Estadístico", "Xgboost Fan", "Missing Values Hater"],
+  "email": "victor.ortiz.arone@gmail.com",
+  "location": "Lima, PER",
   "description": [
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum",
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro.",
-    " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum."
+    " ¡Hola! Estoy a punto de obtener mi título en Estadística en la Universidad Agraria La Molina y tengo muchas ganas de lanzarme a proyectos más ambiciosos y emocionantes. ¿Te animarías a trabajar conmigo?",
+    " Para ser sincero, trabajar con datos es mi pasión, mi vicio nocturno. Me encanta explorar, limpiar, modelar y sacarles todo el jugo posible. Y si llego a entender de qué se trata realmente tu negocio, prepárate, porque probablemente estaré lanzando ideas para nuevos proyectos sin parar. ",
+    " ¿Data Cleaning? Lo domino. ¿Modelado? ¡Por supuesto! ¿Gestión de Proyectos? ¡Todo perfecto! Y en cuanto a tecnologías y lenguajes de programación, soy un adicto a aprender lo último y lo mejor que hay disponible. ¿Y el precio por mi entusiasmo desenfrenado? Un modesto salario de practicante "
   ],
   "links": {
-    "twitter": "https://twitter.com/kotlin",
-    "linkedin": "https://linkedin.com/in/kotlin",
-    "github": "https://github.com/kotlin",
-    "mail": "mailto:oliviadavis@example.com",
-    "blog": "https://blog.example.com"
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://www.linkedin.com/in/victor-ortiz-arone-123524239/",
+    "github": "https://github.com/vaortizarone",
+    "mail": "mailto:victor.ortiz.arone@gmail.com",
+    "blog": "https://medium.com"
   },
   "skills": [
-    "html",
-    "css",
-    "sass",
-    "bootstrap",
-    "tailwind",
-    "javascript",
-    "typescript",
-    "react",
-    "next",
-    "node",
-    "git",
-    "astro"
+    "powerbi",
+    "tableau",
+    "python",
+    "r",
+    "julia",
+    "quarto",
+    "postgres",
+    "duckdb",
+    "dbt",
+    "pyspark",
+    "shiny",
+    "airflow"
   ],
   "projects": [
     {
-      "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/qd1p2yaogl41ymtozppc.jpg",
-      "altText": "Connect Four game",
-      "description": "Play a game of Connect Four against another human player (alternating turns on the same computer)",
-      "codeSrc": "https://github.com/zougari47/portfolio-template",
-      "liveDemoURL": "https://github.com/zougari47/portfolio-template",
-      "technologies": ["typescript", "tailwind", "next"]
+      "imageSrc": "https://res.cloudinary.com/dsdup2cro/image/upload/v1715490313/Rplot_syanvm.png",
+      "altText": "Pokemon VGC Clustering",
+      "description": "Recopilé datos sobre torneos de Pokémon para clusterizar a los jugadores por medio de sus equipos",
+      "codeSrc": "https://github.com/vaortizarone/Reg-G-VGC",
+      "liveDemoURL": "https://github.com/vaortizarone/Reg-G-VGC",
+      "technologies": ["r", "quarto", "julia"]
     },
     {
-      "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/zurpxclpp6gavavnw6d2.jpg",
-      "altText": "Entertainment web app",
-      "description": "Navigate between Home, Movies, TV Series, and Bookmarked Shows pages",
-      "codeSrc": "https://github.com/zougari47/portfolio-template",
-      "liveDemoURL": "https://github.com/zougari47/portfolio-template",
-      "technologies": ["node"]
+      "imageSrc": "https://res.cloudinary.com/dsdup2cro/image/upload/v1715490295/Captura_de_pantalla_de_2024-05-11_23-55-19_fnkfz9.png",
+      "altText": "Forecasting del precio del cobre",
+      "description": "¿Cuánto costará el cobre mañana? Por si el BCRP se lo pregunta implementamos modelos LSTM y XGBoost para descubrirlo",
+      "codeSrc": "https://github.com/vaortizarone/commodities_pred",
+      "liveDemoURL": "https://github.com/vaortizarone/commodities_pred",
+      "technologies": ["python" , "shiny"]
     },
     {
-      "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/mubyltw6vmbmndvlymzn.jpg",
-      "altText": "Meet landing page",
-      "description": "View the optimal layout depending on their device's screen size",
-      "codeSrc": "https://github.com/zougari47/portfolio-template",
-      "liveDemoURL": "https://github.com/zougari47/portfolio-template",
-      "technologies": ["astro", "react", "tailwind"]
+      "imageSrc": "https://res.cloudinary.com/dsdup2cro/image/upload/v1715035361/Captura_de_pantalla_de_2024-05-06_17-40-52_flwl0f.png",
+      "altText": "Análisis alimentario de economías emergentes",
+      "description": "Aprendemos mucho sobre comercio alimentario en países emergentes mediante Análisis Exploratorio",
+      "codeSrc": "https://github.com/vaortizarone/comida_proyecto",
+      "liveDemoURL": "https://github.com/vaortizarone/comida_proyecto",
+      "technologies": ["postgres", "r", "tableau"]
     },
     {
-      "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/lowozx0v3khn1hyggkqy.jpg",
-      "altText": "Devjobs web app",
-      "description": "Devjobs web app",
-      "codeSrc": "https://github.com/zougari47/portfolio-template",
-      "liveDemoURL": "https://github.com/zougari47/portfolio-template",
-      "technologies": ["next", "tailwind"]
+      "imageSrc": "https://res.cloudinary.com/dsdup2cro/image/upload/v1715034754/pisatest__dashboard_page-0001_z1l1y5.jpg",
+      "altText": "Resultados Prueba PISA 2022 en Perú",
+      "description": "2022 fue otro año donde Perú dió resultados pésimos en la prueba PISA ¿Qué factores influyen en este mal resultado?",
+      "codeSrc": "https://github.com/vaortizarone/pisatest",
+      "liveDemoURL": "https://github.com/vaortizarone/pisatest",
+      "technologies": ["python", "pyspark", "powerbi"]
     }
   ]
 }
